@@ -1,20 +1,18 @@
 # Milestone 5
 
 ## Description
-Like Dutch, Frisian is also an official language in the Netherlands, Frisian is pretty much exclusively spoken in Friesland, but to what extend is Frisian actually used in every day conversation by people who are from places where the language is spoken.
+In 2020 the covid-19 pandemic started and was at its height, especially in the news, but how has this widespread coverage affected discourse on twitter. 
 
 ## Background
-Jongbloed-Faber, Lysbeth. "Meertalig whatsappen: Het taalgebruik van Friese jongeren op sociale media." Levende Talen Magazine 104.2 (2017): 24-28.
 
-De Graaf, Tjeerd, Cor Van der Meer, and Lysbeth Jongbloed-Faber. "The use of new technologies in the preservation of an endangered language: The case of Frisian." Endangered languages and new technologies (2015): 141-149.
 
 ## Research question
-How is much The Frisian language used in every day conversation in Friesland?
+How did the twitter engagement towards covid change over the course of the pandemic?
 
 ## Hypothesis
-I expect that Frisians dont use Frisian all that much in public conversations on twitter, except when their target audience for the tweet is other Frisians, but even in those situations I expect Frisian to be not that commonly used by the average twitter user. 
+I expect the discourse to mostly start at the end of january when the WHO declared covid a public health emergency of international concern and quickly ramping up in  march when the WHO declared covid-19 a pendemic. I then expect the discourse to slowly die down again with some peaks whenever a lockdown ends, starts or a new variant is discovered. 
 
 ## Method
-Data: Twitter data collected by the university of Groningen. I will use data from the first 3 months of 2022 in order to not create a needlessly massive dataset. 
+Data: Twitter data collected by the university of Groningen. I will use data starting from december 2019 when covid was first discovered up to the end of 2022. 
 
-I will keep track of every word used in both Friesland as well as the rest of the Netherlands in a python dictionary and see how many words are used in Friesland, that are hardly or not at all used anywhere else in the coutry. And what percentage of overall words this constitutes.
+I will collect every tweet mentioning the words "covid" and "coronavirus" and variations of these words in the dataset and keep track of when they were sent. 
