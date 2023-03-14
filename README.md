@@ -17,4 +17,4 @@ I expect that Frisians dont use Frisian all that much in public conversations on
 ## Method
 Data: Twitter data collected by the university of Groningen. I will use data from the first 3 months of 2022 in order to not create a needlessly massive dataset. 
 
-I will keep track of every word used in both Friesland as well as the rest of the Netherlands and see how many words are used in Friesland, that are hardly or not at all used anywhere else in the coutry. And what percentage of overall words this constitutes.
+I will keep track of every word used in both Friesland as well as the rest of the Netherlands in a python dictionary and see how many words are used in Friesland, that are hardly or not at all used anywhere else in the coutry. And what percentage of overall words this constitutes.
