@@ -1,4 +1,4 @@
-# Milestone 5
+# The focus of public discourse on the covid-19 pandemic
 
 ## Description
 In 2020 the covid-19 pandemic started. For months, if not years after the start of the pandemic, whenever you turned on the news there was something about covid on. For a long time it was all there was to talk about. But did this reflect in society as well. How much did public discourse focus on the pandemic and how did the number of people discussing the pandemic increase or decrease over time? By analysing data from Twitter I hope to find out exactly that. 
