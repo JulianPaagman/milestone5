@@ -19,4 +19,4 @@ The data that i wll use will be Twitter data collected by the university of Gron
 
 I will use data starting from december 2019 when covid was first discovered up to the end of 2022.
 
-I will collect every tweet mentioning the words "covid" and "coronavirus" and variations of these words in the dataset and keep track of when they were sent. Then I will conduct an analysis of this data in order to find out how engagement changed over the course of the pandemic.
+I will collect every tweet mentioning the words "covid", "SARS‑CoV‑2" and "coronavirus" and variations of these words in the dataset and keep track of when they were sent. Then I will conduct an analysis of this data in order to find out how engagement changed over the course of the pandemic.
