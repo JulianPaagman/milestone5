@@ -9,7 +9,7 @@ Jongbloed-Faber, Lysbeth. "Meertalig whatsappen: Het taalgebruik van Friese jong
 De Graaf, Tjeerd, Cor Van der Meer, and Lysbeth Jongbloed-Faber. "The use of new technologies in the preservation of an endangered language: The case of Frisian." Endangered languages and new technologies (2015): 141-149.
 
 ## Research question
-How much The Frisian language is used in every day conversation?
+How is much The Frisian language used in every day conversation in Friesland?
 
 ## Hypothesis
 I expect that Frisians dont use Frisian all that much in public conversations on twitter, except when their target audience for the tweet is other Frisians, but even in those situations I expect Frisian to be not that commonly used by the average twitter user. 
