@@ -1,7 +1,7 @@
 # Milestone 5
 
 ## Description
-In 2020 the covid-19 pandemic started and was at its height, especially in the news, but how has this widespread coverage affected general discourse. 
+In 2020 the covid-19 pandemic started. For months, if not years after the start of the pandemic, whenever you turned on the news there was something about covid on. For a long time it was all there was to talk about. But did this reflect in society as well. How much did public discourse focus on the pandemic and how did the number of people discussing the pandemic increase or decrease over time? By analysing data from Twitter I hope to find out exactly that. 
 
 ## Background
 Carvajal-Miranda, Christian, Luis Mañas-Viniegra, and Li Liang. "Online discourse in the context of COVID-19, the first health crisis in China after the advent of mobile social media: a content analysis of China’s Weibo and Baidu." Social Sciences 9.10 (2020): 167.
