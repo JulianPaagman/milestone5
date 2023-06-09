@@ -21,19 +21,18 @@ def count_covid_mentions(input_file):
         for line in input:
             if re.match(date_pattern, line):
                 current_date = line.strip()
-                print(current_date)
-                tweets[current_date] = [0, 0, 0] # Index 0 = total number of tweets per date, index 1 = total number of tweets mentioning covid
+                current_month = current_date[3:]
+                tweets[current_month] = [0, 0, 0] # Index 0 = total number of tweets per date, index 1 = total number of tweets mentioning covid
                 continue
             if check_covid(line):
-                tweets[current_date][0] += 1
-                tweets[current_date][1] += 1
+                tweets[current_month][0] += 1
+                tweets[current_month][1] += 1
             else:
-                tweets[current_date][1] += 1
-            print(tweets[current_date][1])
+                tweets[current_month][0] += 1
         return tweets
 
 def main():
-    input_file = "test_input.txt"
+    input_file = "input_file.txt"
 
     tweets = count_covid_mentions(input_file)
 
@@ -42,15 +41,11 @@ def main():
 
 
     for day in tweets:
-        month = day[2:5]
-        print("month: ", month)
         if tweets[day][0] != 0:
-            dates.append(datetime.strptime(day, '%d %m %Y').date())
+            dates.append(datetime.strptime(day, '%m %Y').date())
             monthly_covid_mentions.append(tweets[day][1] / tweets[day][0])
-            print("Covid mentions: ", monthly_covid_mentions)
         else:
-            print(day)
-            dates.append(datetime.strptime(day, '%d %m %Y').date())
+            dates.append(datetime.strptime(day, '%m %Y').date())
             monthly_covid_mentions.append(0)
     
     plt.plot(dates, monthly_covid_mentions)
