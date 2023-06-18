@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 # Data
-.txt
+input_file.txt
+test_input.txt
