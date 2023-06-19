@@ -22,4 +22,4 @@ I will use data starting from december 2019 when covid was first discovered up t
 I will collect every tweet mentioning the words "covid", "SARS‑CoV‑2" and "coronavirus" and variations of these words in the dataset and keep track of when they were sent. Then I will conduct an analysis of this data in order to find out how engagement changed over the course of the pandemic.
 
 ## Data
-https://www.dropbox.com/s/1wwra7j5rolfzgg/test_input.txt?dl=0
+https://www.dropbox.com/s/l8pb50zf5utg4o4/input_file.txt?dl=0
